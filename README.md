@@ -1,0 +1,1 @@
+# NLP-W2V-simple-code-example
